@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--# 👋 Hi, I'm Rini
+## Hi there 👋  I'm Rini
 
 ## 🚀 QA Automation Engineer
 
